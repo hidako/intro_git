@@ -2,3 +2,6 @@ Hello
 
 こんにちは
 さようなら
+/git add
+git commit
+git git
