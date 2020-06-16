@@ -7,3 +7,6 @@ git commit
 git git
 
 rimu-bu
+
+gitstatus
+
