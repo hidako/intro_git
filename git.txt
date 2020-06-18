@@ -5,6 +5,3 @@ git initte
 変更
 
 hennkou
-
-
-git status
