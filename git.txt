@@ -5,3 +5,6 @@ git initte
 変更
 
 hennkou
+
+
+diff
