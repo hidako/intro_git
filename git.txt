@@ -10,3 +10,6 @@ hennkou
 diff
 push
 gitpush
+
+
+config
