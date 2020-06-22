@@ -1,0 +1,16 @@
+git tutorial
+
+git initte
+
+変更
+
+hennkou
+
+
+diff
+push
+gitpush
+
+
+config
+
