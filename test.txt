@@ -1,19 +1,18 @@
- ãƒ‰ãƒ©ã‚¤ãƒ– C ã®ãƒœãƒªãƒ¥ãƒ¼ãƒ  ãƒ©ãƒ™ãƒ«ã¯ Local Disk ã§ã™
- ãƒœãƒªãƒ¥ãƒ¼ãƒ  ã‚·ãƒªã‚¢ãƒ«ç•ªå·ã¯ 0ABD-0D31 ã§ã™
+ ƒhƒ‰ƒCƒu C ‚Ìƒ{ƒŠƒ…[ƒ€ ƒ‰ƒxƒ‹‚Í Local Disk ‚Å‚·
+ ƒ{ƒŠƒ…[ƒ€ ƒVƒŠƒAƒ‹”Ô†‚Í 0ABD-0D31 ‚Å‚·
 
- C:\Users\kaede\Desktop\intro_git ã®ãƒ‡ã‚£ãƒ¬ã‚¯ãƒˆãƒª
+ C:\Users\kaede\Desktop\intro_git ‚ÌƒfƒBƒŒƒNƒgƒŠ
 
 2020/06/17  11:50    <DIR>          .
 2020/06/17  11:50    <DIR>          ..
 2020/06/16  15:40               112 Hello.txt
 2020/06/17  10:39                 0 sevcond.txt
 2020/06/17  11:50                 0 test.txt
-               3 å€‹ã®ãƒ•ã‚¡ã‚¤ãƒ«                 112 ãƒã‚¤ãƒˆ
-               2 å€‹ã®ãƒ‡ã‚£ãƒ¬ã‚¯ãƒˆãƒª  46,878,814,208 ãƒã‚¤ãƒˆã®ç©ºãé ˜åŸŸ
+               3 ŒÂ‚Ìƒtƒ@ƒCƒ‹                 112 ƒoƒCƒg
+               2 ŒÂ‚ÌƒfƒBƒŒƒNƒgƒŠ  46,878,814,208 ƒoƒCƒg‚Ì‹ó‚«—Ìˆæ
 
 
 
-å¤‰æ›´å¾Œã‚’ã‚³ãƒŸãƒƒãƒˆ
-ãƒ—ãƒƒã‚·ãƒ¥ç¢ºèª
-
-ãƒžãƒ¼ã‚¸è¿½åŠ 
+•ÏXŒã‚ðƒRƒ~ƒbƒg
+ƒvƒbƒVƒ…Šm”F
+ƒRƒ“ƒtƒŠƒNƒg
